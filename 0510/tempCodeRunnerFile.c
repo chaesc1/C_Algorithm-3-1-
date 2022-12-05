@@ -1,0 +1,1 @@
+                        strcpy(e.word, token);
